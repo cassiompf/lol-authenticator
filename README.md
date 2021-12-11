@@ -49,3 +49,8 @@ Replace 'your-nickname' with your nickname and 'your-password' with your account
 ```bash
 $ pipenv run python ./src/main.py
 ```
+
+---
+**Demo**
+
+![lol-authenticator-compressed](https://user-images.githubusercontent.com/20346767/145660282-faba26fe-6062-476c-9f2f-031e8ed9c83d.gif)
