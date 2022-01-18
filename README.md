@@ -3,7 +3,7 @@
 ### Content index
 --- 
 
-* [Project Setup](#setup-do-projeto)
+* [Project Setup](#project-setup)
 * [Dependencies](#dependencies)
 
 ## Project Setup
